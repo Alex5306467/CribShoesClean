@@ -1,1 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy — Shoe Cleaning App</title>
+  <meta name="description" content="Privacy Policy for the Shoe Cleaning App.">
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 820px; margin: auto; padding: 20px; line-height: 1.6; }
+    h1, h2 { color: #222; }
+    h1 { margin-bottom: 0; }
+    p.sub { color: #777; margin-top: 4px; }
+    ul { padding-left: 20px; }
+    hr { margin: 40px 0; }
+  </style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+<p class="sub">Shoe Cleaning App — Last updated: August 13, 2025</p>
+
+<h2>1. Who we are</h2>
+<p><strong>[Company legal name]</strong> (“we”, “us”, “our”) operates the mobile application <strong>Shoe Cleaning App</strong> for shoe cleaning services.</p>
+
+<h2>2. What data we collect</h2>
+<ul>
+  <li><strong>Account data:</strong> name, email, phone number, password hash.</li>
+  <li><strong>Order data:</strong> shoe photos (optional), cleaning type, payment method (token only), delivery/pickup addresses, comments.</li>
+  <li><strong>Device data:</strong> push notification token, device model, OS version, language.</li>
+  <li><strong>Location (optional):</strong> for couriers (to show available orders / delivery status).</li>
+  <li><strong>Support/Chat:</strong> messages and attachments you send to us.</li>
+</ul>
+
+<h2>3. Why we collect it (legal basis)</h2>
+<ul>
+  <li><strong>Provide the service:</strong> create and manage orders, process payments, send status updates (contract necessity).</li>
+  <li><strong>Notifications:</strong> order progress, updates, promotions (consent; you can disable in Settings).</li>
+  <li><strong>Safety &amp; fraud prevention:</strong> secure access and detect abuse (legitimate interests).</li>
+  <li><strong>Analytics &amp; improvement:</strong> app performance and feature usage (legitimate interests / consent where required).</li>
+</ul>
+
+<h2>4. Payments</h2>
+<p>Payments are processed by <strong>[Processor: Apple Pay/Stripe/Adyen]</strong>. We do <strong>not</strong> store full card data; we receive tokens and transaction IDs.</p>
+
+<h2>5. Sharing with third parties</h2>
+<p>We share data only with service providers that help us run the app (hosting, analytics, push, payment). They process data under our instructions and safeguards. We do not sell your personal data.</p>
+
+<h2>6. Data retention</h2>
+<ul>
+  <li>Account &amp; order records: kept while your account is active and as required by law (e.g., tax/audit).</li>
+  <li>Push tokens &amp; analytics: rotated or deleted when no longer needed.</li>
+  <li>You can delete your account at any time (see Section 9).</li>
+</ul>
+
+<h2>7. International transfers</h2>
+<p>Your data may be processed on servers outside your country. We use appropriate safeguards (e.g., contractual clauses) to protect it.</p>
+
+<h2>8. Your rights</h2>
+<p>Depending on your jurisdiction (e.g., GDPR/CCPA), you may have rights to access, correct, delete, or export your data, and to object or restrict processing. Contact us at <strong>[support@email]</strong>.</p>
+
+<h2>9. Deleting your account</h2>
+<p>In the app: <strong>Profile → Delete Account</strong>. This permanently removes your profile and non-required data. Certain records (e.g., invoices) may be retained if required by law.</p>
+
+<h2>10. Children</h2>
+<p>This app is not intended for children under 13/16 (as applicable). We do not knowingly collect data from children.</p>
+
+<h2>11. Changes to this policy</h2>
+<p>We may update this policy. We will notify you via the app or email when changes are material.</p>
+
+<h2>12. Contact</h2>
+<p><strong>[Company legal name]</strong><br>
+[Address]<br>
+Email: <strong>[support@email]</strong></p>
+
+<hr>
+<p style="color:#777; font-size:14px;">Tip: Replace [placeholders] with your real company information before publishing.</p>
+
+</body>
+</html>
 
